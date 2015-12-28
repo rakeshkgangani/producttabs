@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <cms_index_index>
+        <reference name="content">
+            <block type="core/template" name="home_center-image">
+                <action method="setTemplate"><template>test/test.phtml</template></action>
+            </block>
+        </reference>
+    </cms_index_index>
+</layout>

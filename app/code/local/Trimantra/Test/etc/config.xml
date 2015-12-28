@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Trimantra_Test>
+            <version>0.1.0</version>
+        </Trimantra_Test>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <test module="Trimantra_Test">
+                    <file>test.xml</file>
+                </test>
+            </updates>
+        </layout>  
+    </frontend>
+</config>
